@@ -37,8 +37,8 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/jtchen11/你的仓库名.git
-cd 你的仓库名
+git clone https://github.com/jtchen11/yolo-deepsort-optimization
+cd yolo-deepsort-optimization
 
 # 2. 创建虚拟环境
 conda create -n yolo_deepsort_env python=3.8
